@@ -59,7 +59,8 @@ An implementation/project based on the Least Recently Used (LRU) Cache concept.
 
 🤝 Connect With Me
 
-💼 "LinkedIn" (YOUR_LINKEDIN_URL)
+💼 "LinkedIn" 
+     https://www.linkedin.com/in/jennifer-saldanha-a8a95437b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
