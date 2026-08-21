@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github--banner.png" alt="Jennifer Agnes Saldanha - GitHub Banner" width="100%">
+  <img src="./github-banner.png" alt="Jennifer Agnes Saldanha - GitHub Banner" width="100%">
 </p>
 👋 Hi, I'm Jennifer Agnes Saldanha
 
