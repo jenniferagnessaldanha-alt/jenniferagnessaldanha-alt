@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jenniferagnessaldanha-alt/jenniferagnessaldanha-alt/blob/main/github--banner.png.jpeg?raw=true"
-    alt="Jennifer Agnes Saldanha - GitHub Banner" width="100%">
+  <img src="https://github.com/jenniferagnessaldanha-alt/jenniferagnessaldanha-alt/blob/main/github--banner.png?raw=true" alt="Jennifer Agnes Saldanha - GitHub Banner" width="100%">
 </p>
 👋 Hi, I'm Jennifer Agnes Saldanha
 
